@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Performance Optimization for OLAP Workloads in SQL Server*](https://rd.springer.com/video/10.1007/%isbn%) by Edward Pollack (Apress, 2021).
+This repository accompanies [*Performance Optimization for OLAP Workloads in SQL Server*](https://rd.springer.com/video/10.1007/978-1-4842-7000-4) by Edward Pollack (Apress, 2021).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484270004.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
